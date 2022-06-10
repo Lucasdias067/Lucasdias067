@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Lucas Dias!!
 
--  Estou em processo de aprendizagem em HTML, CSS e Javascript 
+-  Estou em processo de aprendizagem em HTML, CSS, Javascript e React
 ##
  <div align="center">
   <a href="https://github.com/Lucasdias067">
