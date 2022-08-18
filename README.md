@@ -1,6 +1,8 @@
 ### Olá!! Eu sou o Lucas Dias!!
 
--  Estou em processo de aprendizagem em HTML, CSS, Javascript e React
+Olá, eu sou Lucas Dias, tenho 21 anos e sou da área de Front-End. 
+Estou em processo de aprendizagem em HTML, CSS, Javascript e React
+
 ##
  <div align="center">
   <a href="https://github.com/Lucasdias067">
