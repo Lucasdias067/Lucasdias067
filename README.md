@@ -1,7 +1,8 @@
 ### Olá!!
 
 Eu sou Lucas Dias, tenho 21 anos e sou da área de Front-End. <br>
-Estou em processo de aprendizagem em Javascript e React e faço Análise de Desenvolvimento de Sistemas.
+Estou em processo de aprendizagem em Javascript e React.
+Estudo Análise de Desenvolvimento de Sistemas.
 
 ##
  <div align="center">
