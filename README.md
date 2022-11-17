@@ -13,8 +13,8 @@ Estudo Análise e Desenvolvimento de Sistemas.
 ##
  <div align="">
   <a href="https://github.com/Lucasdias067">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasdias067&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdias067&layout=compact&langs_count=7&theme=dark"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=lucasdias067&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdias067&layout=compact&langs_count=7&theme=dark"/>
  </div>
  
   
