@@ -9,7 +9,7 @@ Estudo Análise e Desenvolvimento de Sistemas.
   <a href="https://www.linkedin.com/in/lucasdias067/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ##
- <div align="center">
+ <div align="">
   <a href="https://github.com/Lucasdias067">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasdias067&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdias067&layout=compact&langs_count=7&theme=dark"/>
