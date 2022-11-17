@@ -4,10 +4,14 @@ Eu sou Lucas Dias, tenho 21 anos e sou da área de Front-End. <br>
 Estou em processo de aprendizagem em Javascript e React. <br>
 Estudo Análise e Desenvolvimento de Sistemas.
 
+ ##
+  <a href = "mailto:lucasdias067@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasdias067/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 ##
  <div align="center">
   <a href="https://github.com/Lucasdias067">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdias067&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=lucasdias067&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdias067&layout=compact&langs_count=7&theme=dark"/>
  </div>
  
@@ -26,13 +30,8 @@ Estudo Análise e Desenvolvimento de Sistemas.
   <div> 
     
   <!--<a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
-   ##
-  <a href = "mailto:lucasdias067@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucasdias067/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
     
  ![Snake animation](https://github.com/lucasdias067/lucasdias067/blob/output/github-contribution-grid-snake.svg)
  
 </div><br>
-
-
-
