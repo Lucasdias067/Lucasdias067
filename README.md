@@ -6,14 +6,7 @@
  <div align="center">📱 Contato: (19) 98131-1406</div><br>
 </div>
 
-
-
-
-Tenho 21 anos e sou da área de Front-End. <br>
-Estou em processo de aprendizagem em Javascript e React. <br>
-Estudo Análise e Desenvolvimento de Sistemas.
-
- ##
+ ## <div align="center"> Contatos</div>
  <div align="center">
    <a href = "mailto:lucasdias067@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/lucasdias067/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
