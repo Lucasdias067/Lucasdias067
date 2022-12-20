@@ -1,10 +1,10 @@
 ## Olá, sou o Lucas!!
 
 <div>
-🏫 Estudante de Análise e Desenvolvimento de Sistemas
+🏫 Estudante de Análise e Desenvolvimento de Sistemas<br>
 🚀 Disponível para o mercado de trabalho
-💻 E-mail: lucasdias067@gmail.com
-📱 Contato: (19) 98131-1406
+💻 E-mail: lucasdias067@gmail.com<br>
+📱 Contato: (19) 98131-1406<br>
 </div>
 
 Tenho 21 anos e sou da área de Front-End. <br>
