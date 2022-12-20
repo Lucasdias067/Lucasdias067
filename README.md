@@ -1,8 +1,8 @@
 ## Olá, sou o Lucas!!
 
-<div>
+<div align="center">
 🏫 Estudante de Análise e Desenvolvimento de Sistemas<br>
-🚀 Disponível para o mercado de trabalho
+🚀 Disponível para o mercado de trabalho<br>
 💻 E-mail: lucasdias067@gmail.com<br>
 📱 Contato: (19) 98131-1406<br>
 </div>
