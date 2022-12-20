@@ -1,6 +1,6 @@
 ## Olá, sou o Lucas!!
 
-<div align="">
+<div>
 🏫 Estudante de Análise e Desenvolvimento de Sistemas
 🚀 Disponível para o mercado de trabalho
 💻 E-mail: lucasdias067@gmail.com
