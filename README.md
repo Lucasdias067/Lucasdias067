@@ -14,10 +14,10 @@
 
 
  ## <div align="center"> Estatísticas
-  <a href="https://github.com/Lucasdias067"> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasdias067&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdias067&layout=compact&langs_count=7&theme=dark"/>
- </div>
+     <a href="https://github.com/Lucasdias067"> 
+     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasdias067&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdias067&layout=compact&langs_count=7&theme=dark"/>
+    </div>
  
  
 ## <div style="display: inline_block" align="center"> Linguagens <br> 
