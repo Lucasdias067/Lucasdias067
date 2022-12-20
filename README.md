@@ -1,10 +1,10 @@
 # <div align="center"> Olá, sou o Lucas!!</div>
 
 <div align="center">
- <div text-align="center">🏫 Estudante de Análise e Desenvolvimento de Sistemas</div><br>
- <div text-align="left">  🚀 Disponível para o mercado de trabalho</div><br>
- <div text-align="center">💻 E-mail: lucasdias067@gmail.com</div><br>
- <div text-align="center">📱 Contato: (19) 98131-1406</div><br>
+ <div textalign="center">🏫 Estudante de Análise e Desenvolvimento de Sistemas</div><br>
+ <div textalign="left">  🚀 Disponível para o mercado de trabalho</div><br>
+ <div textalign="center">💻 E-mail: lucasdias067@gmail.com</div><br>
+ <div textalign="center">📱 Contato: (19) 98131-1406</div><br>
 </div>
 
  ## <div align="center"> Contatos</div>
