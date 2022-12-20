@@ -1,6 +1,13 @@
-### Olá!!
+## Olá, sou o Lucas!!
 
-Eu sou Lucas Dias, tenho 21 anos e sou da área de Front-End. <br>
+<div align="center">
+🏫 Estudante de Análise e Desenvolvimento de Sistemas
+🚀 Disponível para o mercado de trabalho
+💻 E-mail: lucasdias067@gmail.com
+📱 Contato: (19) 98131-1406
+</div>
+
+Tenho 21 anos e sou da área de Front-End. <br>
 Estou em processo de aprendizagem em Javascript e React. <br>
 Estudo Análise e Desenvolvimento de Sistemas.
 
