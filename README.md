@@ -1,11 +1,11 @@
-## Olá, sou o Lucas!!
+## <div align="center"> Olá, sou o Lucas!!</div>
 
-<div align="">
-🏫 Estudante de Análise e Desenvolvimento de Sistemas<br>
-🚀 Disponível para o mercado de trabalho<br>
-💻 E-mail: lucasdias067@gmail.com<br>
-📱 Contato: (19) 98131-1406<br>
-</div>
+<div align="center">🏫 Estudante de Análise e Desenvolvimento de Sistemas</div><br>
+<div align="center">🚀 Disponível para o mercado de trabalho</div><br>
+<div align="center">💻 E-mail: lucasdias067@gmail.com</div><br>
+<div align="center">📱 Contato: (19) 98131-1406</div><br>
+
+
 
 Tenho 21 anos e sou da área de Front-End. <br>
 Estou em processo de aprendizagem em Javascript e React. <br>
