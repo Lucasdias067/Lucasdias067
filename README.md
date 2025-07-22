@@ -2,7 +2,7 @@
 
 <div align="center">
  <div textalign="center">🏫 Estudante de Análise e Desenvolvimento de Sistemas</div><br>
- <div textalign="left">  🚀 Disponível para o mercado de trabalho</div><br>
+<!--  <div textalign="left">  🚀 Disponível para o mercado de trabalho</div><br> -->
  <div textalign="center">💻 E-mail: lucasdias067@gmail.com</div><br>
  <div textalign="center">📱 Contato: (19) 98131-1406</div><br>
 </div>
